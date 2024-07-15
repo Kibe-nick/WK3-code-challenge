@@ -34,5 +34,8 @@ Upon loading the page, the details of the first movie are displayed.
 Click on any movie in the menu to view its details.
 Purchase tickets by clicking the "Buy Ticket" button, with immediate updates on ticket availability.
 
+## Live Demo
+Check out the live demo of the application: https://idyllic-klepon-b93f75.netlify.app 
+
 ## Credits
 Developed by Nick Kibet.
